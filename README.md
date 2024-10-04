@@ -28,7 +28,8 @@ Created a new column TotalPrice calculated as Quantity * UnitPrice for each tran
 
 7. Data Visualization
 
-8. a. Revenue by Country
+8. 
+a. Revenue by Country
 Grouped the data by country and plotted the total revenue per country using a bar chart.
 
 b. Top 10 Products by Sales

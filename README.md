@@ -28,18 +28,18 @@ Created a new column TotalPrice calculated as Quantity * UnitPrice for each tran
 
 7. Data Visualization
 
-8. 
-a. Revenue by Country
-Grouped the data by country and plotted the total revenue per country using a bar chart.
+8.
+   Revenue by Country
+  Grouped the data by country and plotted the total revenue per country using a bar chart.
 
-b. Top 10 Products by Sales
-Identified the top 10 best-selling products and visualized them using a bar chart.
+  Top 10 Products by Sales
+  Identified the top 10 best-selling products and visualized them using a bar chart.
 
-c. Sales Trend Over Time
-Resampled the data on a monthly basis to show the sales trend over time.
+  Sales Trend Over Time
+  Resampled the data on a monthly basis to show the sales trend over time.
 
-d. Purchases per Customer
-Analyzed customer purchasing behavior and visualized the top 10 customers based on total revenue.
+  Purchases per Customer
+  Analyzed customer purchasing behavior and visualized the top 10 customers based on total revenue.
 
 9. Cluster Analysis
 Clustered customers based on total revenue and the number of purchases for customer segmentation.

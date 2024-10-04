@@ -27,7 +27,7 @@ Negative values in 'Quantity' were identified as cancellations. These rows were 
 Created a new column TotalPrice calculated as Quantity * UnitPrice for each transaction.
 
 7. Data Visualization
-a. Revenue by Country
+8. a. Revenue by Country
 Grouped the data by country and plotted the total revenue per country using a bar chart.
 b. Top 10 Products by Sales
 Identified the top 10 best-selling products and visualized them using a bar chart.
@@ -36,13 +36,13 @@ Resampled the data on a monthly basis to show the sales trend over time.
 d. Purchases per Customer
 Analyzed customer purchasing behavior and visualized the top 10 customers based on total revenue.
 
-8. Cluster Analysis
+9. Cluster Analysis
 Clustered customers based on total revenue and the number of purchases for customer segmentation.
 
-9. Product Cancellations
+10. Product Cancellations
 Analyzed products with the most cancellations and visualized the top 10 products with the highest cancellation rates.
 
-10. Revenue Analysis by Country
+11. Revenue Analysis by Country
 Visualized the top 10 countries with the highest revenue using bar charts.
 Key Insights:
 The majority of sales come from the UK, with significant peaks in November and December.
